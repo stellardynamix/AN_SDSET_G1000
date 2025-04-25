@@ -1,0 +1,997 @@
+[
+    {
+        "path": "G1000_BTN_INDICATION_05_ALTITUDE.png",
+        "name": "G1000_BTN_INDICATION_05_ALTITUDE.png",
+        "tags": [
+            "altitude"
+        ]
+    },
+    {
+        "path": "G1000_BTN_INDICATION_03_CDI_MODE.png",
+        "name": "G1000_BTN_INDICATION_03_CDI_MODE.png",
+        "tags": [
+            "cdi",
+            "mode"
+        ]
+    },
+    {
+        "path": "MENU_BTN_SELECT02_01_G1000.png",
+        "name": "MENU_BTN_SELECT02_01_G1000.png",
+        "tags": [
+            "menu",
+            "g1000"
+        ]
+    },
+    {
+        "path": "G1000_BTN_TXT_07_ENT.png",
+        "name": "G1000_BTN_TXT_07_ENT.png",
+        "tags": [
+            "enter"
+        ]
+    },
+    {
+        "path": "G1000_BTN_TXT_05_MENU.png",
+        "name": "G1000_BTN_TXT_05_MENU.png",
+        "tags": [
+            "menu"
+        ]
+    },
+    {
+        "path": "G1000_BTN_TXT_03_FPL.png",
+        "name": "G1000_BTN_TXT_03_FPL.png",
+        "tags": [
+            "fpl"
+        ]
+    },
+    {
+        "path": "G1000_BTN_TXT_01_NOSE_UP.png",
+        "name": "G1000_BTN_TXT_01_NOSE_UP.png",
+        "tags": [
+            "nose",
+            "up"
+        ]
+    },
+    {
+        "path": "G1000_BTN_SYMBOL02_07_TXT_MFD_BRT_UP.png",
+        "name": "G1000_BTN_SYMBOL02_07_TXT_MFD_BRT_UP.png",
+        "tags": [
+            "mfd",
+            "brt",
+            "up"
+        ]
+    },
+    {
+        "path": "G1000_BTN_SYMBOL02_05_TXT_PFD_BRT_UP.png",
+        "name": "G1000_BTN_SYMBOL02_05_TXT_PFD_BRT_UP.png",
+        "tags": [
+            "pfd",
+            "brt",
+            "up"
+        ]
+    },
+    {
+        "path": "G1000_BTN_SYMBOL02_03_TXT_MFD_RANGE_UP.png",
+        "name": "G1000_BTN_SYMBOL02_03_TXT_MFD_RANGE_UP.png",
+        "tags": [
+            "mfd",
+            "range",
+            "up"
+        ]
+    },
+    {
+        "path": "G1000_BTN_SYMBOL02_01_TXT_PFD_ZOOM_UP.png",
+        "name": "G1000_BTN_SYMBOL02_01_TXT_PFD_ZOOM_UP.png",
+        "tags": [
+            "pfd",
+            "zoom",
+            "up"
+        ]
+    },
+    {
+        "path": "G1000_BTN_SYMBOL_08_ARROW_RIGHT_GREEN.png",
+        "name": "G1000_BTN_SYMBOL_08_ARROW_RIGHT_GREEN.png",
+        "tags": [
+            "arrow",
+            "right",
+            "green"
+        ]
+    },
+    {
+        "path": "G1000_BTN_SYMBOL_06_ARROW_RIGHT.png",
+        "name": "G1000_BTN_SYMBOL_06_ARROW_RIGHT.png",
+        "tags": [
+            "arrow",
+            "right"
+        ]
+    },
+    {
+        "path": "G1000_BTN_SYMBOL_04_ARROW_DOWN.png",
+        "name": "G1000_BTN_SYMBOL_04_ARROW_DOWN.png",
+        "tags": [
+            "arrow",
+            "down"
+        ]
+    },
+    {
+        "path": "G1000_BTN_SYMBOL_02_DIRECT_TO.png",
+        "name": "G1000_BTN_SYMBOL_02_DIRECT_TO.png",
+        "tags": [
+            "direct",
+            "to"
+        ]
+    },
+    {
+        "path": "G1000_BTN_SECTION_SELECT01_MENU_05_AUTOPILOT.png",
+        "name": "G1000_BTN_SECTION_SELECT01_MENU_05_AUTOPILOT.png",
+        "tags": [
+            "autopilot"
+        ]
+    },
+    {
+        "path": "G1000_BTN_SECTION_SELECT01_MENU_03_AUDIO.png",
+        "name": "G1000_BTN_SECTION_SELECT01_MENU_03_AUDIO.png",
+        "tags": [
+            "audio"
+        ]
+    },
+    {
+        "path": "G1000_BTN_SECTION_SELECT01_MENU_01_GENERAL.png",
+        "name": "G1000_BTN_SECTION_SELECT01_MENU_01_GENERAL.png",
+        "tags": [
+            "general"
+        ]
+    },
+    {
+        "path": "G1000_BTN_INDICATION_01_NAV_VOL.png",
+        "name": "G1000_BTN_INDICATION_01_NAV_VOL.png",
+        "tags": [
+            "vol"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_18_MANSQ_OFF.png",
+        "name": "G1000_BTN_MODE_18_MANSQ_OFF.png",
+        "tags": [
+            "mansq"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_17_NAV2_OFF.png",
+        "name": "G1000_BTN_MODE_17_NAV2_OFF.png",
+        "tags": [
+            "nav2"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_16_NAV1_OFF.png",
+        "name": "G1000_BTN_MODE_16_NAV1_OFF.png",
+        "tags": [
+            "nav1"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_15_AUX_OFF.png",
+        "name": "G1000_BTN_MODE_15_AUX_OFF.png",
+        "tags": [
+            "aux"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_14_ADF_OFF.png",
+        "name": "G1000_BTN_MODE_14_ADF_OFF.png",
+        "tags": [
+            "adf"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_13_DME_OFF.png",
+        "name": "G1000_BTN_MODE_13_DME_OFF.png",
+        "tags": [
+            "dme"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_12_HISENS_OFF.png",
+        "name": "G1000_BTN_MODE_12_HISENS_OFF.png",
+        "tags": [
+            "hisens"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_11_SPRK_OFF.png",
+        "name": "G1000_BTN_MODE_11_SPRK_OFF.png",
+        "tags": [
+            "spkr"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_10_COM1_2_OFF.png",
+        "name": "G1000_BTN_MODE_10_COM1_2_OFF.png",
+        "tags": [
+            "com1"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_09_TEL_OFF.png",
+        "name": "G1000_BTN_MODE_09_TEL_OFF.png",
+        "tags": [
+            "tel"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_08_MKR_MUTE_OFF.png",
+        "name": "G1000_BTN_MODE_08_MKR_MUTE_OFF.png",
+        "tags": [
+            "mic",
+            "mute"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_07_PA_OFF.png",
+        "name": "G1000_BTN_MODE_07_PA_OFF.png",
+        "tags": [
+            "pa"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_06_COM3_OFF.png",
+        "name": "G1000_BTN_MODE_06_COM3_OFF.png",
+        "tags": [
+            "com3"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_05_COM2_OFF.png",
+        "name": "G1000_BTN_MODE_05_COM2_OFF.png",
+        "tags": [
+            "com2"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_04_COM1_OFF.png",
+        "name": "G1000_BTN_MODE_04_COM1_OFF.png",
+        "tags": [
+            "com1"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_03_COM3_MIC_OFF.png",
+        "name": "G1000_BTN_MODE_03_COM3_MIC_OFF.png",
+        "tags": [
+            "com3",
+            "mic"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_02_COM2_MIC_OFF.png",
+        "name": "G1000_BTN_MODE_02_COM2_MIC_OFF.png",
+        "tags": [
+            "com2".
+            "mic"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_01_COM1_MIC_OFF.png",
+        "name": "com",
+        "tags": [
+            "mic"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MENU_19_SELECT_WIND_OFF.png",
+        "name": "G1000_BTN_MENU_19_SELECT_WIND_OFF.png",
+        "tags": [
+            "wind"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MENU_17_SELECT_MAP_NXRD.png",
+        "name": "G1000_BTN_MENU_17_SELECT_MAP_NXRD.png",
+        "tags": [
+            "map",
+            "nxrd"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MENU_15_SELECT_MAP_TRAF.png",
+        "name": "G1000_BTN_MENU_15_SELECT_MAP_TRAF.png",
+        "tags": [
+            "map",
+            "traf"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MENU_13_SELECT_BEARING_2.png",
+        "name": "G1000_BTN_MENU_13_SELECT_BEARING_2.png",
+        "tags": [
+            "bearing"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MENU_11_SELECT_MAP_REL.png",
+        "name": "G1000_BTN_MENU_11_SELECT_MAP_REL.png",
+        "tags": [
+            "map",
+            "rel"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MENU_09_SELECT_MAP_INSET.png",
+        "name": "G1000_BTN_MENU_09_SELECT_MAP_INSET.png",
+        "tags": [
+            "map",
+            "inset"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MENU_07_SELECT_WIND_OP3.png",
+        "name": "G1000_BTN_MENU_07_SELECT_WIND_OP3.png",
+        "tags": [
+            "wind",
+            "op3"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MENU_05_SELECT_WIND_OP1.png",
+        "name": "G1000_BTN_MENU_05_SELECT_WIND_OP1.png",
+        "tags": [
+            "wind",
+            "op1"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MENU_03_SELECT_MAP_DETAIL.png",
+        "name": "G1000_BTN_MENU_03_SELECT_MAP_DETAIL.png",
+        "tags": [
+            "map",
+            "detail"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MENU_01_SELECT_BARO_STD.png",
+        "name": "G1000_BTN_MENU_01_SELECT_BARO_STD.png",
+        "tags": [
+            "baro",
+            "std"
+        ]
+    },
+    {
+        "path": "G1000_BTN_LED01_10_FLC_OFF.png",
+        "name": "G1000_BTN_LED01_10_FLC_OFF.png",
+        "tags": [
+            "flc"
+        ]
+    },
+    {
+        "path": "G1000_BTN_LED01_09_ALT_OFF.png",
+        "name": "G1000_BTN_LED01_09_ALT_OFF.png",
+        "tags": [
+            "alt"
+        ]
+    },
+    {
+        "path": "G1000_BTN_LED01_08_VNV_OFF.png",
+        "name": "G1000_BTN_LED01_08_VNV_OFF.png",
+        "tags": [
+            "vnv"
+        ]
+    },
+    {
+        "path": "G1000_BTN_LED01_07_VS_OFF.png",
+        "name": "G1000_BTN_LED01_07_VS_OFF.png",
+        "tags": [
+            "vs"
+        ]
+    },
+    {
+        "path": "G1000_BTN_LED01_06_NAV_OFF.png",
+        "name": "G1000_BTN_LED01_06_NAV_OFF.png",
+        "tags": [
+            "nav"
+        ]
+    },
+    {
+        "path": "G1000_BTN_LED01_05_HDG_OFF.png",
+        "name": "G1000_BTN_LED01_05_HDG_OFF.png",
+        "tags": [
+            "hdg"
+        ]
+    },
+    {
+        "path": "G1000_BTN_LED01_04_BC_OFF.png",
+        "name": "G1000_BTN_LED01_04_BC_OFF.png",
+        "tags": [
+            "bc"
+        ]
+    },
+    {
+        "path": "G1000_BTN_LED01_03_APR_OFF.png",
+        "name": "G1000_BTN_LED01_03_APR_OFF.png",
+        "tags": [
+            "apr"
+        ]
+    },
+    {
+        "path": "G1000_BTN_LED01_02_FD_OFF.png",
+        "name": "G1000_BTN_LED01_02_FD_OFF.png",
+        "tags": [
+            "fd"
+        ]
+    },
+    {
+        "path": "G1000_BTN_LED01_01_AP_OFF.png",
+        "name": "G1000_BTN_LED01_01_AP_OFF.png",
+        "tags": [
+            "ap"
+        ]
+    },
+    {
+        "path": "G1000_BTN_INDICATION_23_COMSWAP.png",
+        "name": "G1000_BTN_INDICATION_23_COMSWAP.png",
+        "tags": [
+            "com",
+            "swap"
+        ]
+    },
+    {
+        "path": "G1000_BTN_INDICATION_21_NAV2_ACT.png",
+        "name": "G1000_BTN_INDICATION_21_NAV2_ACT.png",
+        "tags": [
+            "nav2",
+            "act"
+        ]
+    },
+    {
+        "path": "G1000_BTN_INDICATION_19_NAV1_ACT.png",
+        "name": "G1000_BTN_INDICATION_19_NAV1_ACT.png",
+        "tags": [
+            "nav1",
+            "act"
+        ]
+    },
+    {
+        "path": "G1000_BTN_INDICATION_17_COM2_ACT.png",
+        "name": "G1000_BTN_INDICATION_17_COM2_ACT.png",
+        "tags": [
+            "com2",
+            "act"
+        ]
+    },
+    {
+        "path": "G1000_BTN_INDICATION_15_COM1_ACT.png",
+        "name": "G1000_BTN_INDICATION_15_COM1_ACT.png",
+        "tags": [
+            "com1",
+            "act"
+        ]
+    },
+    {
+        "path": "G1000_BTN_INDICATION_13_COPILOT_VOL.png",
+        "name": "G1000_BTN_INDICATION_13_COPILOT_VOL.png",
+        "tags": [
+            "copilot",
+            "volume"
+        ]
+    },
+    {
+        "path": "G1000_BTN_INDICATION_11_MFD_BRT.png",
+        "name": "G1000_BTN_INDICATION_11_MFD_BRT.png",
+        "tags": [
+            "mfd",
+            "brt"
+        ]
+    },
+    {
+        "path": "G1000_BTN_INDICATION_09_ALT_INC.png",
+        "name": "G1000_BTN_INDICATION_09_ALT_INC.png",
+        "tags": [
+            "alt",
+            "increment"
+        ]
+    },
+    {
+        "path": "G1000_BTN_INDICATION_07_COURSE.png",
+        "name": "G1000_BTN_INDICATION_07_COURSE.png",
+        "tags": [
+            "course"
+        ]
+    },
+    {
+        "path": "G1000_BTN_INDICATION_06_VS.png",
+        "name": "G1000_BTN_INDICATION_06_VS.png",
+        "tags": [
+            "vs"
+        ]
+    },
+    {
+        "path": "G1000_BTN_INDICATION_08_BARO.png",
+        "name": "G1000_BTN_INDICATION_08_BARO.png",
+        "tags": [
+            "baro"
+        ]
+    },
+    {
+        "path": "G1000_BTN_INDICATION_10_PFD_BRT.png",
+        "name": "G1000_BTN_INDICATION_10_PFD_BRT.png",
+        "tags": [
+            "pfd",
+            "brt"
+        ]
+    },
+    {
+        "path": "G1000_BTN_INDICATION_12_PILOT_VOL.png",
+        "name": "G1000_BTN_INDICATION_12_PILOT_VOL.png",
+        "tags": [
+            "pilot",
+            "volume"
+        ]
+    },
+    {
+        "path": "G1000_BTN_INDICATION_14_XPDR.png",
+        "name": "G1000_BTN_INDICATION_14_XPDR.png",
+        "tags": [
+            "xpdr"
+        ]
+    },
+    {
+        "path": "G1000_BTN_INDICATION_16_COM1_STBY.png",
+        "name": "G1000_BTN_INDICATION_16_COM1_STBY.png",
+        "tags": [
+            "com1",
+            "stby"
+        ]
+    },
+    {
+        "path": "G1000_BTN_INDICATION_18_COM2_STBY.png",
+        "name": "G1000_BTN_INDICATION_18_COM2_STBY.png",
+        "tags": [
+            "com2",
+            "stby"
+        ]
+    },
+    {
+        "path": "G1000_BTN_INDICATION_20_NAV1_STBY.png",
+        "name": "G1000_BTN_INDICATION_20_NAV1_STBY.png",
+        "tags": [
+            "nav1",
+            "stby"
+        ]
+    },
+    {
+        "path": "G1000_BTN_INDICATION_22_NAV2_STBY.png",
+        "name": "G1000_BTN_INDICATION_22_NAV2_STBY.png",
+        "tags": [
+            "nav2",
+            "stby"
+        ]
+    },
+    {
+        "path": "G1000_BTN_INDICATION_24_NAVSWAP.png",
+        "name": "G1000_BTN_INDICATION_24_NAVSWAP.png",
+        "tags": [
+            "nav",
+            "swap"
+        ]
+    },
+    {
+        "path": "G1000_BTN_LED01_01_AP_ON.png",
+        "name": "G1000_BTN_LED01_01_AP_ON.png",
+        "tags": [
+            "ap"
+        ]
+    },
+    {
+        "path": "G1000_BTN_LED01_02_FD_ON.png",
+        "name": "G1000_BTN_LED01_02_FD_ON.png",
+        "tags": [
+            "fd"
+        ]
+    },
+    {
+        "path": "G1000_BTN_LED01_03_APR_ON.png",
+        "name": "G1000_BTN_LED01_03_APR_ON.png",
+        "tags": [
+            "apr"
+        ]
+    },
+    {
+        "path": "G1000_BTN_LED01_04_BC_ON.png",
+        "name": "G1000_BTN_LED01_04_BC_ON.png",
+        "tags": [
+            "bc"
+        ]
+    },
+    {
+        "path": "G1000_BTN_LED01_05_HDG_ON.png",
+        "name": "G1000_BTN_LED01_05_HDG_ON.png",
+        "tags": [
+            "hdg"
+        ]
+    },
+    {
+        "path": "G1000_BTN_LED01_06_NAV_ON.png",
+        "name": "G1000_BTN_LED01_06_NAV_ON.png",
+        "tags": [
+            "nav"
+        ]
+    },
+    {
+        "path": "G1000_BTN_LED01_07_VS_ON.png",
+        "name": "G1000_BTN_LED01_07_VS_ON.png",
+        "tags": [
+            "vs"
+        ]
+    },
+    {
+        "path": "G1000_BTN_LED01_08_VNV_ON.png",
+        "name": "G1000_BTN_LED01_08_VNV_ON.png",
+        "tags": [
+            "vnv"
+        ]
+    },
+    {
+        "path": "G1000_BTN_LED01_09_ALT_ON.png",
+        "name": "G1000_BTN_LED01_09_ALT_ON.png",
+        "tags": [
+            "alt"
+        ]
+    },
+    {
+        "path": "G1000_BTN_LED01_10_FLC_ON.png",
+        "name": "G1000_BTN_LED01_10_FLC_ON.png",
+        "tags": [
+            "flc"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MENU_02_SELECT_MAP_OFF.png",
+        "name": "G1000_BTN_MENU_02_SELECT_MAP_OFF.png",
+        "tags": [
+            "map"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MENU_04_SELECT_MAP_LGT.png",
+        "name": "G1000_BTN_MENU_04_SELECT_MAP_LGT.png",
+        "tags": [
+            "map",
+            "lgt"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MENU_06_SELECT_WIND_OP2.png",
+        "name": "G1000_BTN_MENU_06_SELECT_WIND_OP2.png",
+        "tags": [
+            "wind",
+            "op2"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MENU_08_SELECT_DME.png",
+        "name": "G1000_BTN_MENU_08_SELECT_DME.png",
+        "tags": [
+            "dme"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MENU_10_SELECT_MAP_METAR.png",
+        "name": "G1000_BTN_MENU_10_SELECT_MAP_METAR.png",
+        "tags": [
+            "map",
+            "metar"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MENU_12_SELECT_BEARING_1.png",
+        "name": "G1000_BTN_MENU_12_SELECT_BEARING_1.png",
+        "tags": [
+            "bearing1"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MENU_14_SELECT_METER.png",
+        "name": "G1000_BTN_MENU_14_SELECT_METER.png",
+        "tags": [
+            "meter"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MENU_16_SELECT_MAP_HSI.png",
+        "name": "G1000_BTN_MENU_16_SELECT_MAP_HSI.png",
+        "tags": [
+            "hsi"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MENU_18_SELECT_MAP_TOPO.png",
+        "name": "G1000_BTN_MENU_18_SELECT_MAP_TOPO.png",
+        "tags": [
+            "map",
+            "topo"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MENU_20_SELECT_IDENT.png",
+        "name": "G1000_BTN_MENU_20_SELECT_IDENT.png",
+        "tags": [
+            "ident"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_01_COM1_MIC_ON.png",
+        "name": "G1000_BTN_MODE_01_COM1_MIC_ON.png",
+        "tags": [
+            "com1"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_02_COM2_MIC_ON.png",
+        "name": "G1000_BTN_MODE_02_COM2_MIC_ON.png",
+        "tags": [
+            "com2"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_03_COM3_MIC_ON.png",
+        "name": "G1000_BTN_MODE_03_COM3_MIC_ON.png",
+        "tags": [
+            "com3"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_04_COM1_ON.png",
+        "name": "G1000_BTN_MODE_04_COM1_ON.png",
+        "tags": [
+            "com1"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_05_COM2_ON.png",
+        "name": "G1000_BTN_MODE_05_COM2_ON.png",
+        "tags": [
+            "com2"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_06_COM3_ON.png",
+        "name": "G1000_BTN_MODE_06_COM3_ON.png",
+        "tags": [
+            "com3"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_07_PA_ON.png",
+        "name": "G1000_BTN_MODE_07_PA_ON.png",
+        "tags": [
+            "pa"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_08_MKR_MUTE_ON.png",
+        "name": "G1000_BTN_MODE_08_MKR_MUTE_ON.png",
+        "tags": [
+            "mic",
+            "mute"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_09_TEL_ON.png",
+        "name": "G1000_BTN_MODE_09_TEL_ON.png",
+        "tags": [
+            "tel"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_10_COM1_2_ON.png",
+        "name": "G1000_BTN_MODE_10_COM1_2_ON.png",
+        "tags": [
+            "com1"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_11_SPRK_ON.png",
+        "name": "G1000_BTN_MODE_11_SPRK_ON.png",
+        "tags": [
+            "speaker"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_12_HISENS_ON.png",
+        "name": "G1000_BTN_MODE_12_HISENS_ON.png",
+        "tags": [
+            "hisens"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_13_DME_ON.png",
+        "name": "G1000_BTN_MODE_13_DME_ON.png",
+        "tags": [
+            "dme"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_14_ADF_ON.png",
+        "name": "G1000_BTN_MODE_14_ADF_ON.png",
+        "tags": [
+            "adf"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_15_AUX_ON.png",
+        "name": "G1000_BTN_MODE_15_AUX_ON.png",
+        "tags": [
+            "aux"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_16_NAV1_ON.png",
+        "name": "G1000_BTN_MODE_16_NAV1_ON.png",
+        "tags": [
+            "nav1"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_17_NAV2_ON.png",
+        "name": "G1000_BTN_MODE_17_NAV2_ON.png",
+        "tags": [
+            "nav2"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_18_MANSQ_ON.png",
+        "name": "G1000_BTN_MODE_18_MANSQ_ON.png",
+        "tags": [
+            "mansq"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_19_PILOT_ON.png",
+        "name": "G1000_BTN_MODE_19_PILOT_ON.png",
+        "tags": [
+            "pilot"
+        ]
+    },
+    {
+        "path": "G1000_BTN_SECTION_SELECT01_MENU_02_OPTIONS.png",
+        "name": "G1000_BTN_SECTION_SELECT01_MENU_02_OPTIONS.png",
+        "tags": [
+            "options"
+        ]
+    },
+    {
+        "path": "G1000_BTN_SECTION_SELECT01_MENU_04_NAVCOM.png",
+        "name": "G1000_BTN_SECTION_SELECT01_MENU_04_NAVCOM.png",
+        "tags": [
+            "nav",
+            "com"
+        ]
+    },
+    {
+        "path": "G1000_BTN_MODE_19_PILOT_OFF.png",
+        "name": "G1000_BTN_MODE_19_PILOT_OFF.png",
+        "tags": [
+            "pilot"
+        ]
+    },
+    {
+        "path": "G1000_BTN_SYMBOL_01_SWITCH.png",
+        "name": "G1000_BTN_SYMBOL_01_SWITCH.png",
+        "tags": [
+            "switch"
+        ]
+    },
+    {
+        "path": "G1000_BTN_SYMBOL_03_ARROW_UP.png",
+        "name": "G1000_BTN_SYMBOL_03_ARROW_UP.png",
+        "tags": [
+            "arrow",
+            "up"
+        ]
+    },
+    {
+        "path": "G1000_BTN_SYMBOL_05_ARROW_LEFT.png",
+        "name": "G1000_BTN_SYMBOL_05_ARROW_LEFT.png",
+        "tags": [
+            "arrow",
+            "left"
+        ]
+    },
+    {
+        "path": "G1000_BTN_SYMBOL_07_ARROW_LEFT_GREEN.png",
+        "name": "G1000_BTN_SYMBOL_07_ARROW_LEFT_GREEN.png",
+        "tags": [
+            "arrow",
+            "left",
+            "green"
+        ]
+    },
+    {
+        "path": "G1000_BTN_SYMBOL_09_SWITCH_GREEN.png",
+        "name": "G1000_BTN_SYMBOL_09_SWITCH_GREEN.png",
+        "tags": [
+            "switch",
+            "green"
+        ]
+    },
+    {
+        "path": "G1000_BTN_SYMBOL02_02_TXT_PFD_ZOOM_DOWN.png",
+        "name": "G1000_BTN_SYMBOL02_02_TXT_PFD_ZOOM_DOWN.png",
+        "tags": [
+            "pfd",
+            "zoom",
+            "down"
+        ]
+    },
+    {
+        "path": "G1000_BTN_SYMBOL02_04_TXT_MFD_RANGE_DOWN.png",
+        "name": "G1000_BTN_SYMBOL02_04_TXT_MFD_RANGE_DOWN.png",
+        "tags": [
+            "mfd",
+            "range",
+            "down"
+        ]
+    },
+    {
+        "path": "G1000_BTN_SYMBOL02_06_TXT_PFD_BRT_DOWN.png",
+        "name": "G1000_BTN_SYMBOL02_06_TXT_PFD_BRT_DOWN.png",
+        "tags": [
+            "pfd"
+        ]
+    },
+    {
+        "path": "G1000_BTN_SYMBOL02_08_TXT_MFD_BRT_DOWN.png",
+        "name": "G1000_BTN_SYMBOL02_08_TXT_MFD_BRT_DOWN.png",
+        "tags": [
+            "mfd"
+        ]
+    },
+    {
+        "path": "G1000_BTN_TXT_02_NOSE_DOWN.png",
+        "name": "G1000_BTN_TXT_02_NOSE_DOWN.png",
+        "tags": [
+            "nose"
+        ]
+    },
+    {
+        "path": "G1000_BTN_TXT_04_CLR.png",
+        "name": "G1000_BTN_TXT_04_CLR.png",
+        "tags": [
+            "clr"
+        ]
+    },
+    {
+        "path": "G1000_BTN_TXT_06_PROC.png",
+        "name": "G1000_BTN_TXT_06_PROC.png",
+        "tags": [
+            "proc"
+        ]
+    },
+    {
+        "path": "MENU_BTN_SELECT01_01_HOME.png",
+        "name": "MENU_BTN_SELECT01_01_HOME.png",
+        "tags": [
+            "home"
+        ]
+    },
+    {
+        "path": "MENU_BTN_SELECT02_02_XPDR.png",
+        "name": "MENU_BTN_SELECT02_02_XPDR.png",
+        "tags": [
+            "xpdr"
+        ]
+    },
+    {
+        "path": "G1000_BTN_INDICATION_02_COM_VOL.png",
+        "name": "G1000_BTN_INDICATION_02_COM_VOL.png",
+        "tags": [
+            "com"
+        ]
+    },
+    {
+        "path": "G1000_BTN_INDICATION_04_HEADING.png",
+        "name": "G1000_BTN_INDICATION_04_HEADING.png",
+        "tags": [
+            "heading"
+        ]
+    }
+]
